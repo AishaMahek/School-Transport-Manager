@@ -1,4 +1,35 @@
-# School-Transport-Manager
-A mobile-friendly school tansport fee management system that helps track student records,monthly payments,cash and UPI transactions, and outstanding balances. 
+# School Transport Fee Manager
 
-#this is 
+A web-based application designed to help
+manage monthly school transportation fees.
+
+## Problem Statement
+
+Managing monthly fees for school students
+manually can be difficult. This project aims
+to simplify payment tracking and reduce
+confusion.
+
+## Planned Features
+
+- Student registration
+- Monthly fee management
+- Cash and UPI payment tracking
+- Partial payment support
+- Pending fee calculation
+- Monthly payment history
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Firebase (planned)
+
+## Project Status
+
+Under Development 🚧
+
+## Developer
+
+Aisha Mahek
